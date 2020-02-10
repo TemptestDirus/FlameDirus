@@ -39,6 +39,7 @@ user_pref("gfx.webrender.all", true);
 user_pref("gfx.webrender.compositor", true);
 user_pref("gfx.webrender.compositor.max_update_rects", 0);
 user_pref("gfx.webrender.compositor.surface-pool-size", -1);
+user_pref("gfx.webrender.enable-item-cache", true);
 user_pref("gfx.webrender.enabled", true);
 user_pref("gfx.webrender.late-scenebuild-threshold", 0);
 user_pref("gfx.webrender.max-partial-present-rects", 0);
