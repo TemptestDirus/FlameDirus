@@ -61,6 +61,7 @@ user_pref("layout.display-list.rebuild-frame-limit", -1);
 user_pref("layout.dynamic-reflow-roots.enabled", true);
 user_pref("layout.interruptible-reflow.enabled", false);
 user_pref("layout.paint_rects_separately", true);
+user_pref("layout.min-active-layer-size", -1);
 user_pref("layout.smaller-painted-layers", true);
 user_pref("media.autoplay.default", 5);
 user_pref("media.cache_readahead_limit", 120);
